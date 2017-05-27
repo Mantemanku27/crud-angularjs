@@ -4,12 +4,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Baris Bahasa Otentikasi
+    | Baris Bahasa Otentikasi.
     |--------------------------------------------------------------------------
     |
-    | Baris bahasa berikut digunakan selama otentikasi untuk berbagai
-    | Pesan yang perlu ditampilkan kepada pengguna. Anda bebas untuk memodifikasi
-    | Baris bahasa ini sesuai dengan kebutuhan aplikasi Anda.
+    | Baris bahasa berikut digunakan selama otentikasi, untuk berbagai
+    | pesan yang perlu ditampilkan kepada pengguna. Anda bebas untuk memodifikasi
+    | baris bahasa ini sesuai dengan kebutuhan aplikasi anda.
     |
     */
 

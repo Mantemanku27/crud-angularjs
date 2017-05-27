@@ -4,12 +4,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Baris Bahasa Reset Password
+    | Baris Bahasa Reset Password.
     |--------------------------------------------------------------------------
     |
     | Baris bahasa berikut adalah baris default yang sesuai dengan alasan
-    | Yang diberikan oleh broker password untuk usaha update password
-    | Telah gagal, seperti untuk kata kunci yang tidak valid atau kata kunci baru yang tidak benar.
+    | yang diberikan oleh broker password untuk usaha update password
+    | telah gagal, seperti untuk kata kunci yang tidak valid atau kata kunci baru yang tidak benar.
     |
     */
 

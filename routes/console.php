@@ -4,12 +4,12 @@ use Illuminate\Foundation\Inspiring;
 
 /*
 |--------------------------------------------------------------------------
-| Rute Console
+| Rute Console.
 |--------------------------------------------------------------------------
 |
-| File ini adalah tempat Anda dapat menentukan semua konsol berbasis Closure Anda
-| Perintah. Setiap Closure terikat pada instance perintah yang memungkinkan a
-| Pendekatan sederhana untuk berinteraksi dengan metode IO masing-masing perintah.
+| File ini adalah tempat Anda dapat menentukan semua Console berbasis Closure Anda
+| perintah. Setiap Closure terikat pada instansi perintah yang memungkinkan
+| pendekatan sederhana untuk berinteraksi dengan metode IO masing-masing perintah.
 |
 */
 

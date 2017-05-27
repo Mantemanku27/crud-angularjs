@@ -3,13 +3,13 @@
 
 /*
 |--------------------------------------------------------------------------
-| Daftarkan Auto Loader
+| Daftar Auto Loader.
 |--------------------------------------------------------------------------
 |
-| Komposer menyediakan loader kelas yang mudah dibuat secara otomatis
-| Untuk aplikasi ini Kita hanya perlu memanfaatkannya! & Kita akan membutuhkannya
-| Ke script disini agar kita tidak perlu khawatir dengan
-| Pemuatan kelas kita "secara manual". Merasa senang bisa bersantai.
+| Komposer menyediakan loader Class yang mudah dibuat secara otomatis
+| untuk aplikasi kita. Kita hanya perlu memanfaatkannya! & Kita akan membutuhkannya
+| ke script ini agar kita tidak perlu khawatir dengan
+| pemuatan Class kita "secara manual". Merasa senang bisa bersantai.
 |
 */
 
@@ -19,12 +19,12 @@ $app = require_once __DIR__.'/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
-| Jalankan Aplikasi Artisan
+| Running Aplikasi Artisan.
 |--------------------------------------------------------------------------
 |
-| Saat kita menjalankan aplikasi konsol, perintah CLI saat ini
-| Dieksekusi di konsol ini dan respon dikirim kembali ke terminal
-| Atau perangkat output lain untuk pengembang. Tidak ada gunanya!
+| Saat kita menjalankan aplikasi Console, perintah CLI saat ini
+| dieksekusi di Console ini dan respon dikirim kembali ke terminal
+| atau perangkat output lain untuk pengembang. Tidak ada gunanya!
 |
 */
 
@@ -37,11 +37,11 @@ $status = $kernel->handle(
 
 /*
 |--------------------------------------------------------------------------
-| Shutdown Aplikasi
+| Shutdown Aplikasi.
 |--------------------------------------------------------------------------
 |
 | Setelah Artisan selesai jalan. Kami akan mematikan secara shutdown
-| Sehingga setiap pekerjaan akhir bisa dilakukan dengan aplikasi sebelum kita tutup
+| sehingga setiap pekerjaan akhir bisa dilakukan dengan aplikasi sebelum kita tutup.
 | Turunnya proses Ini adalah hal terakhir yang terjadi atas permintaan tersebut.
 |
 */

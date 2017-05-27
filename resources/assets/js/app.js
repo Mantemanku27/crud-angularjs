@@ -1,7 +1,7 @@
 /**
  * Pertama kita akan memuat semua dependensi JavaScript proyek ini
- * Termasuk Vue dan Vue Resource. Ini memberi titik awal yang bagus
- * Membangun aplikasi web yang kuat dan kuat menggunakan Vue dan Laravel.
+ * termasuk Vue dan Vue Resource. Ini memberi titik awal yang bagus untuk
+ * membangun aplikasi web yang kuat menggunakan Vue dan Laravel.
  */
 
 require('./bootstrap');

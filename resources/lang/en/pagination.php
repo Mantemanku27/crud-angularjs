@@ -4,12 +4,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Alur bahasa pagination
+    | Alur bahasa pagination.
     |--------------------------------------------------------------------------
     |
     | Baris bahasa berikut digunakan oleh perpustakaan paginator untuk dibangun
-    | Link pagination sederhana. Anda bebas mengubahnya menjadi apapun
-    | Anda ingin menyesuaikan tampilan Anda agar lebih cocok dengan aplikasi Anda.
+    | link pagination sederhana. Anda bebas mengubahnya menjadi apapun yang
+    | anda ingin, menyesuaikan tampilan anda agar lebih cocok dengan aplikasi.
     |
     */
 

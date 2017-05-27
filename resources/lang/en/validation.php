@@ -4,12 +4,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Garis Bahasa Validasi
+    | Garis Bahasa Validasi.
     |--------------------------------------------------------------------------
     |
     | Baris bahasa berikut berisi pesan kesalahan default yang digunakan oleh
-    | Kelas validator. Beberapa aturan ini memiliki beberapa versi seperti itu
-    | Sebagai aturan ukuran. Jangan ragu untuk men-tweak masing-masing pesan di sini.
+    | Class validator. Beberapa aturan ini, memiliki beberapa versi seperti
+    | sebagai aturan ukuran. Jangan ragu untuk men-tweak masing-masing pesan di sini.
     |
     */
 
@@ -86,11 +86,11 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Garis Bahasa Khusus Validasi
+    | Garis Bahasa Khusus Validasi.
     |--------------------------------------------------------------------------
     |
     | Di sini Anda dapat menentukan pesan validasi khusus untuk atribut yang menggunakan
-    | Konvensi "atribut.rule" untuk memberi nama baris. Hal ini membuat cepat
+    | konvensi "atribut.rule" untuk memberi nama baris. Hal ini membuat cepat
     | Tentukan baris bahasa khusus tertentu untuk aturan atribut yang diberikan.
     |
     */
@@ -103,12 +103,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Atribut Validasi Khusus
+    | Atribut Validasi Khusus.
     |--------------------------------------------------------------------------
     |
-    | Baris bahasa berikut digunakan untuk menukar atribut place-holders
-    | Dengan sesuatu yang lebih ramah pembaca seperti E-Mail Address sebagai gantinya
-    | Dari "email". Ini hanya membantu kita membuat pesan sedikit lebih bersih.
+    | Baris bahasa berikut digunakan untuk menukar atribut place-holder
+    | dengan sesuatu yang lebih ramah pembaca, seperti E-Mail Address sebagai gantinya
+    | dari "email". Ini hanya membantu kita membuat pesan sedikit lebih bersih.
     |
     */
 

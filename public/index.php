@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Laravel - Framework PHP untuk Developer Web
+ * Laravel - Framework PHP untuk Developer Web.
  *
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
@@ -9,13 +9,13 @@
 
 /*
 |--------------------------------------------------------------------------
-| Daftarkan Auto Loader
+| Daftar Auto Loader.
 |--------------------------------------------------------------------------
 |
-| Komposer menyediakan loader kelas yang mudah dibuat secara otomatis
-| Aplikasi kami Kita hanya perlu memanfaatkannya! Kita hanya membutuhkannya
-| Ke script disini agar kita tidak perlu khawatir dengan manual
-| Loading salah satu kelas kami nanti. Rasanya enak untuk bersantai.
+| Komposer menyediakan loader Class yang mudah dibuat secara otomatis
+| aplikasi kami. Kita hanya perlu memanfaatkannya! Kita hanya membutuhkannya
+| ke script disini agar kita tidak perlu khawatir dengan manual
+| loading salah satu Class kami nanti. Rasanya enak untuk bersantai.
 |
 */
 
@@ -23,13 +23,13 @@ require __DIR__.'/../bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
-| Nyalakan lampunya
+| Nyalakan lampunya.
 |--------------------------------------------------------------------------
 |
 | Kita perlu menerangi perkembangan PHP, jadi mari kita nyalakan lampu.
-| Ini bootstraps kerangka dan mendapatkannya siap untuk digunakan, maka itu
-| Akan memuat aplikasi ini sehingga kita bisa menjalankannya dan mengirimnya
-| Tanggapan kembali ke browser dan menyenangkan pengguna kami.
+| Ini bootstrap kerangka dan mendapatkannya siap untuk digunakan, maka dari itu
+| akan memuat aplikasi ini sehingga kita bisa menjalankannya dan mengirimnya
+| tanggapan kembali ke browser dan menyenangkan pengguna kami.
 |
 */
 
@@ -37,13 +37,13 @@ $app = require_once __DIR__.'/../bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
-| Jalankan Aplikasi
+| Running Aplikasi.
 |--------------------------------------------------------------------------
 |
-| Once we have the application, we can handle the incoming request
-| through the kernel, and send the associated response back to
-| the client's browser allowing them to enjoy the creative
-| and wonderful application we have prepared for them.
+| Begitu kita memiliki aplikasi, kita bisa menangani permintaan masuk
+| melalui kernel, dan mengirim tanggapan terkait kembali
+| browser klien memungkinkan mereka menikmati kreatifitas
+| dan aplikasi hebat yang telah kami siapkan untuk mereka.
 |
 */
 
